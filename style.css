@@ -1,0 +1,21 @@
+*{
+    background-color: dodgerblue;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center; 
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    display:flex;
+    justify-content: center;
+}
